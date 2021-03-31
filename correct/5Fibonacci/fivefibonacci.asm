@@ -1,4 +1,4 @@
-section data
+seCTion data
 one:        const   1
 minus_one:
                     const   -1

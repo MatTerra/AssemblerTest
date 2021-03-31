@@ -1,2 +1,6 @@
 Line 2 Invalid operand start - Syntax
-Line 5 Invalid operand 1 - Syntax OR Line 5 Invalid label 1 - Lexical
+Line 3 Invalid operand 1.2 - Syntax
+Line 4 Invalid operand count for const - Syntax
+Line 7 Invalid operand 1 - Syntax OR Line 5 Invalid label 1 - Lexical
+Line 8 Invalid operand one+1 - Syntax
+Line 9 Invalid operand one + 1 - Syntax

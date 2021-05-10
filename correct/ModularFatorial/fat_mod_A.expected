@@ -1,0 +1,68 @@
+> 3
+PC <- 2
+ACC <- 0
+
+PC <- 4
+ACC <- 3
+
+PC <- 6
+ACC <- 2
+
+PC <- 8
+ACC <- 2
+
+PC <- 15
+ACC <- 2
+
+PC <- 17
+ACC <- 2
+
+PC <- 19
+ACC <- 6
+
+PC <- 21
+ACC <- 6
+
+PC <- 23
+ACC <- 2
+
+PC <- 4
+ACC <- 2
+
+PC <- 6
+ACC <- 1
+
+PC <- 8
+ACC <- 1
+
+PC <- 15
+ACC <- 1
+
+PC <- 17
+ACC <- 1
+
+PC <- 19
+ACC <- 6
+
+PC <- 21
+ACC <- 6
+
+PC <- 23
+ACC <- 1
+
+PC <- 4
+ACC <- 1
+
+PC <- 6
+ACC <- 0
+
+PC <- 10
+ACC <- 0
+
+PC <- 12
+ACC <- 0
+OUTPUT: 6
+
+PC <- 13
+ACC <- 0
+

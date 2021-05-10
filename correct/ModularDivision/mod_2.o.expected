@@ -1,0 +1,8 @@
+H: mod_2
+H: 7
+H: 0101010
+H: U divide 5
+H: U finish 3
+H: D mod_2 0
+H: D n 6
+T: 10 06 08 00 05 00 0

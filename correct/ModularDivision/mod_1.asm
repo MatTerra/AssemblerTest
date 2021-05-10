@@ -1,11 +1,11 @@
 mod_1: begin
-section data
-result: space
-section text
 n: extern
 mod_2: extern
 public finish
 public divide
+section data
+result: space
+section text
 input n
 input n
 jmp mod_2

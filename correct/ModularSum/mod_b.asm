@@ -1,12 +1,12 @@
 MOD_B: BEGIN
-section data
-Y: SPACE
-section text
-OUTPUT Y
 VAL: EXTERN
 L1: EXTERN
 PUBLIC Y
 PUBLIC MOD_B
+section data
+Y: SPACE
+section text
+OUTPUT Y
 OUTPUT VAL
 OUTPUT Y
 JMP L1

@@ -1,0 +1,38 @@
+> 5
+PC <- 2
+ACC <- 0
+
+PC <- 4
+ACC <- 5
+
+PC <- 7
+ACC <- 5
+
+PC <- 9
+ACC <- 4
+
+PC <- 11
+ACC <- 4
+
+PC <- 13
+ACC <- 4
+
+PC <- 15
+ACC <- 20
+
+PC <- 17
+ACC <- 20
+
+PC <- 19
+ACC <- 4
+
+PC <- 22
+ACC <- 4
+
+PC <- 24
+ACC <- 4
+OUTPUT: 20
+
+PC <- 25
+ACC <- 4
+

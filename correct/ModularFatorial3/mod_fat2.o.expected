@@ -1,0 +1,10 @@
+H: mod_fat2
+H: 15
+H: 010101010101010
+H: U aux 5 11
+H: U fim 3
+H: U mod_fim 13
+H: U n 7 9
+H: D mod_fat 0
+H: D one 14
+T: 02 14 08 00 11 00 03 00 11 00 10 00 05 00 1

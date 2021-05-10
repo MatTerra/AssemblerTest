@@ -32,5 +32,5 @@ store   now ; save ACC on now
         sub             one
         store   count
         jmpp loop
-        jmp end
-end:stop
+        jmp finish
+finish:stop
